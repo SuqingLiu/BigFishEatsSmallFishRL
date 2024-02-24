@@ -1,6 +1,14 @@
 # BigFishEatsSmallFishRL
 Reinforcement Learning Agent with Fishy game : freefishy.org
 
+# Link to My Video: 
+
+  TikTok: https://vm.tiktok.com/ZMMdSberF/
+
+  YouTube (Not complete because I went over 1 minute): https://youtube.com/shorts/DIiVbr6EXKI?si=eSMhCuvsoAbrIxDS
+
+  小红书: http://xhslink.com/q30m7B
+
 In this game, the player controls a fish that consumes smaller fish to gain points and grow larger. The player loses when a larger fish consumes them. The objective is to survive and consume more fish to accumulate points.
 
 I utilized DQN because I needed to simulate the environment frame by frame. I employed OpenAI's Gym to customize my agent and developed functions to observe the entire screen, detect game over, and track the current score.
