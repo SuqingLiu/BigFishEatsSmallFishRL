@@ -3,6 +3,8 @@ Reinforcement Learning Agent with Fishy game : freefishy.org
 
 # Link to My Video: 
 
+  Instagram: https://www.instagram.com/reel/C3vVKDrJiPN/?igsh=MXA2b3I2bnY5cjNxeg==
+
   TikTok: https://vm.tiktok.com/ZMMdSberF/
 
   YouTube (Not complete because I went over 1 minute): https://youtube.com/shorts/DIiVbr6EXKI?si=eSMhCuvsoAbrIxDS
